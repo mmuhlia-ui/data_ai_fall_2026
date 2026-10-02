@@ -66,7 +66,7 @@ The `ORDER BY` clause sorts the query results based on specified columns, either
 
 _Estimated time to complete: 1.5 hours_
 
-- [ ] Watch [this video series](https://www.youtube.com/playlist?list=PLUaB-1hjhk8G5zci4HA8E21x2BJS3jzNm) by Alex the Analyst about Intermediate SQL 
+- [x] Watch [this video series](https://www.youtube.com/playlist?list=PLUaB-1hjhk8G5zci4HA8E21x2BJS3jzNm) by Alex the Analyst about Intermediate SQL 
 
 ## Hands-On Practice:  
 
